@@ -18,5 +18,6 @@ func main() {
 		fmt.Printf("prevHash: %x\n", val.PrevHash)
 		fmt.Printf("Data: %s\n", val.Data)
 		fmt.Printf("Hash: %x\n", val.Hash)
+
 	}
 }
